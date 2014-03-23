@@ -1,4 +1,4 @@
-templates.zip
+Email Templates
 =============
 
-A templates archive for the Newsletters module.
+A public collection email templates for the Newsletters module.
